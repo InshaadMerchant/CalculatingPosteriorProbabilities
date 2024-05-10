@@ -4,7 +4,9 @@ This project was developed as part of my CSE 4308 Artificial Intelligence class
 
 
 Programming Language used: Python 3.9.13
+
 Omega Compatibility: No
+
 For compilation and testing: Use PyCharm
 
 How the code is structured:
